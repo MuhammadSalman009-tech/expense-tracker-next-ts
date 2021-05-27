@@ -1,0 +1,15 @@
+body {
+  background-color: #eee;
+}
+.MuiListItem-gutters {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.card-success {
+  background: #afcab6 !important;
+  color: #3b6e50 !important;
+}
+.card-danger {
+  background: #ffe6e6 !important;
+  color: #5b0000 !important;
+}

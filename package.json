@@ -1,0 +1,22 @@
+{
+  "name": "expense-racker-next-ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "next": "^10.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.6.2",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": " next start",
+    "build": "next build",
+    "dev": "next dev"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
